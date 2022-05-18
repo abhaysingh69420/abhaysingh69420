@@ -108,7 +108,7 @@
 
 <br/>  
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31te4ef3u4tc5zrbqvleewi5r7oq)](https://open.spotify.com/user/31te4ef3u4tc5zrbqvleewi5r7oq&unique)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31te4ef3u4tc5zrbqvleewi5r7oq)](https://open.spotify.com/user/31te4ef3u4tc5zrbqvleewi5r7oq)
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abhaysingh69420&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
