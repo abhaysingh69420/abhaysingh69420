@@ -108,15 +108,13 @@
 
 <br/>  
 
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31te4ef3u4tc5zrbqvleewi5r7oq)
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abhaysingh69420&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31te4ef3u4tc5zrbqvleewi5r7oq&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
 
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=abhaysingh69420&&style=flat-square" align="center" />
