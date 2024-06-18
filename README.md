@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Abhay Pratap Singh, a full-time CS student 👨‍💻 currently pursuing BCA from Delhi, INDIA 🚀</div>  
+### <div align="center">I'm Abhay Pratap Singh, a full-time CS student 👨‍💻 BCA Graduate from Delhi, INDIA 🚀</div>  
   
 
 - 🔭 I’m currently working on exploring different IT and CS fields.  
