@@ -1,100 +1,86 @@
 <div align="center">
 <img src="https://res.cloudinary.com/ddlollhtp/image/upload/v1652805917/greetings_noxf6k.gif" align="center" style="width: 100%" />
 </div>  
-  
 
-### <div align="center">I'm Abhay Pratap Singh, a full-time CS student 👨‍💻 BCA Graduate from Delhi, INDIA 🚀</div>  
-  
+<div align="center">
 
-- 🔭 I’m currently working on exploring different IT and CS fields.  
-  
+# Hi, I'm Abhay Pratap Singh! 👨‍💻
+### CS Student at Hochschule Rhein-Waal, Germany 🇩🇪
+### BCA Graduate | AI Researcher
 
-- 🌱 I’m currently learning Full Stack Development and DS ALGO.  
-  
+</div>
 
-- ❓ Ask me about anything.  
-  
+<p align="center">
+  <em>Solving real-world problems with Hybrid AI Architectures and Full Stack Development.</em>
+</p>
 
-- ⚡ Fun fact: I love pondering over How this universe works.  
-  
+---
 
-![]()  
-  
+### 🚀 **Featured Research: Sentinel**
+**Frugal & Private: A Hybrid GenAI Architecture for Fintech**  
+I recently developed **Sentinel**, a privacy-first smart router that bridges the gap between secure local LLMs and cloud intelligence.
+
+- **The Tech:** Python, Llama 3.2, Google Gemini 2.5, Vector Embeddings, Streamlit.
+- **The Impact:** 100% Data Sovereignty for banking PII + 60% Cost Reduction.
+- **The Result:** presented at the *Strategic Perspectives on Usability Engineering Conference (Jan 2026)*.
+
+[**👉 View the Project**](https://github.com/abhaysingh69420/sentinel-fintech) | [**🌐 Live Demo**](https://abhaysingh69420.github.io/sentinel-fintech/)
+
+---
+
+### 👨‍💻 About Me
+- 🔭 I’m currently exploring **Hybrid AI Architectures & Large Language Models**.
+- 🌱 I’m currently learning **Advanced DS Algo & System Design**.
+- 📍 **Current Location:** Kamp-Lintfort, Germany.
+- ⚡ Fun fact: I love pondering over how this universe works (and how to optimize code).
+- 💬 Ask me about: **Python, GenAI, Frontend Dev, and Fintech Security.**
 
 <br/>  
 
+### 🛠️ My Tech Stack
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-</div>
-
-</td></tr></table>  
+<table>
+  <tr>
+    <td valign="top" width="33%" align="center">
+      <b>Languages & AI</b><br><br>
+      <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" />
+      <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40" />
+      <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40" />
+      <img style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C" height="40" />
+      <br>
+      <!-- AI Badges -->
+      <img style="margin: 5px" src="https://img.shields.io/badge/Llama_3-040404?style=flat&logo=meta&logoColor=white" alt="Llama" height="30" />
+      <img style="margin: 5px" src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google&logoColor=white" alt="Gemini" height="30" />
+    </td>
+    <td valign="top" width="33%" align="center">
+      <b>Frontend & Design</b><br><br>
+      <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />
+      <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" />
+      <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />
+      <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" />
+      <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />
+      <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="40" />
+      <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="40" />
+    </td>
+    <td valign="top" width="33%" align="center">
+      <b>Backend & Tools</b><br><br>
+      <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" />
+      <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />
+      <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="40" />
+      <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40" />
+      <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="40" />
+    </td>
+  </tr>
+</table>
 
 <br/>  
 
-
-## Connect with me  
+### 🌐 Connect with me
 <div align="center">
 <a href="https://dev.to/abhaysingh69420" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/__abhay_pratap_singh__" target="_blank">
+<a href="https://www.instagram.com/maledictus_deus" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/abhaysingh69420" target="_blank">
@@ -104,12 +90,13 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31te4ef3u4tc5zrbqvleewi5r7oq)](https://open.spotify.com/user/31te4ef3u4tc5zrbqvleewi5r7oq)
-## Github Stats  
+### 🎧 Recent Jams
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31te4ef3u4tc5zrbqvleewi5r7oq)
+
+### 📊 GitHub Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abhaysingh69420&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
@@ -117,11 +104,9 @@
 
 <br/>  
 
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=abhaysingh69420&&style=flat-square" align="center" />
 </div>  
-  
 
 <br/>  
 
@@ -137,7 +122,6 @@
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
                     align="center"
                 />
-            </a></div>
+            </a>
+</div>
 <br />
-
-
